@@ -1,0 +1,3 @@
+KM=int(input('enter no.of kilometers:'))
+Centimeters=100000*KM
+print('Kilometers in centimeters :',Centimeters )
